@@ -3,7 +3,7 @@
 Para ejecutar el proyecto ejecute los siguientes comandos:
 
 ```sh
-npm update
+npm install
 npm run cypress:open
 ```
 
