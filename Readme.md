@@ -34,6 +34,7 @@ El siguiente caso de uso implementando la herramienta cypress se lo ha realizado
 
 
 2. Con el preámbulo de la prueba de humo , podemos establecer con certeza el escenario de pruebas con una excepción importante, que en este caso es el error encontrado dentro de la página , el mismo que está encerrado haciendo uso de un try y catch, es importante tener en cuenta que al hacer uso de esa función debemos tener en cuenta que al usar esta función ignorará todos los errores de este tipo , por ello se ha tratado de ser muy específico e ignorar este error específico para que el test valide los resultados que esperamos obtener. 
+![image (8)](https://user-images.githubusercontent.com/51218499/219264262-4396fbe0-0810-40bc-93ed-5c4ff820788c.png)
 
 
 ### Problemas
